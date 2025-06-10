@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: heag4ywmm-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/heag4ywmm-go-gitops
